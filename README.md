@@ -1,5 +1,6 @@
 # MountainCarContinuous
 
-Реализация алгоритма DDPG протестированная на среде MountainCarContinuous-v0
 
-Обученный агент был запушен на 100 испытаниях и показал средний ревард  92.64992503483003
+The implementation of the DDPG algorithm was tested on the MountainCarContinuous-v0 environment.
+
+The trained agent was run through 100 trials and achieved an average reward of 92.64992503483003
